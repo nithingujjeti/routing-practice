@@ -1,0 +1,44 @@
+.app-container {
+  display: flex;
+  justify-content: space-between;
+}
+.logo-container {
+  display: flex;
+}
+
+.image {
+  height: 40px;
+  width: 40px;
+  padding: 7px;
+}
+
+.component-container {
+  list-style: none;
+  display: flex;
+  color: #12022f;
+  justify-content: space-around;
+  justify-content: space-between;
+}
+
+.list-container {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+}
+.content {
+  margin-right: 15px;
+  color: #12022f;
+}
+.logo-heading {
+  color: #12022f;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: 'roboto';
+  text-align: center;
+}
+.content {
+  margin-right: 15px;
+  color: #12022f;
+  font-weight: bold;
+  font-family: 'roboto';
+}
